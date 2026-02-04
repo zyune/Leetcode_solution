@@ -1,6 +1,5 @@
 # Leetcode_solution
 
-This is Yune's Leetcode repo. I build this repo to help cs and cs align students in northeastern university to better crack leetcode solution. Some of the code is still navie and perhaps not the best way. I still have a long path to walk ahead. But The repo implement a template idea. There are currently 80 more leetcode solution in the repo.
 
 All the code here is according to [labuladong](https://github.com/labuladong/fucking-algorithm), but a python version. If you were a labuladong reader , but you prefer to use python as your weapon on leetcode. You are in the right battle field.
 
